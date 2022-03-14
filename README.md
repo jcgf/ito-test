@@ -47,7 +47,7 @@ mysql -u root -ppassword (Sin espacios entre la bandera -p y la clave)
 ## 4. Creacion de bd
 Ejecutamos el siguiente script para crear la bd:
   ```sql
-CREATE DATABASE deliverydb;
+CREATE DATABASE itotest;
   ```
 
 ## 5. Instalacion de Gradle
