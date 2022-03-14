@@ -58,6 +58,4 @@ Ejecutar el siguiente comando en la consola estando en la raiz principal de la a
 ```bash
 gradle bootRun
 ```
-
-## 6. URL de documentacion de la API
 la url donde se encuentra la documentacion se encuentra en el siguiente [enlace](http://localhost:8080/ito-test-api/swagger-ui/index.html), debe accederse despues de ejecutar todos los pasos anteriores
